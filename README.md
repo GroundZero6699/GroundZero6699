@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GroundZero6699
 - 👀 I’m interested in coding and development 
-- 🌱 I’m currently learning c# and blender
+- 🌱 I’m currently learning c#, javascript and blender
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
